@@ -1,0 +1,1 @@
+*{box-sizing:border-box;margin:0;padding:0;scroll-behavior:smooth}.bubble{background:radial-gradient(circle,#add8e699,#add8e600);border-radius:50%;box-shadow:0 0 10px #add8e6cc;height:50px;left:20%;position:absolute;top:110%;transition:top .5s;width:50px;z-index:99}@keyframes bubbles{0%{top:110%}25%{top:75%}50%{top:50%}75%{top:25%}to{top:-10%}}
